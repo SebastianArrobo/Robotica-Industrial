@@ -1,6 +1,6 @@
 Robotica Industrial - UP
 
-Contenido
+Contenido: 
   1.Clases
   2.Proyectos
   3.Trabajos
